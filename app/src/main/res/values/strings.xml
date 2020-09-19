@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Manna</string>
+    <string name="title_home">홈</string>
+    <string name="title_info">내정보</string>
+    <string name="title_chatroom">채팅방</string>
+
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="prompt_email">이메일</string>
+    <string name="prompt_password">비밀번호</string>
+    <string name="action_forgot_password">비밀번호를 잊어버리셨나요?</string>
+    <string name="action_log_in">로그인</string>
+    <string name="action_sign_in">회원가입</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
